@@ -6,7 +6,7 @@ Overlock Studio allows platform engineers to design Crossplane
 Compositions and XRDs visually, connect resources, and package
 infrastructure as reusable modules.
 
----
+![Overlock Studio](overlock_studio_editor_screenshot.png)
 
 ## Key Features
 
