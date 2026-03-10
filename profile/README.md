@@ -1,6 +1,6 @@
 # Overlock Studio
 
-Visual platform for building and managing Crossplane infrastructure.
+Visual platform for building and managing Crossplane resource.
 
 Overlock Studio allows platform engineers to design Crossplane
 Compositions and XRDs visually, connect resources, and package
